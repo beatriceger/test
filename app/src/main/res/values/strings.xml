@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Kotlin.Hello</string>
+    <string name="first_text">my text</string>
+    <string name="second_text">wawww</string>
+    <string name="press_btn">press</string>
+    <string name="second_text_function">second text</string>
+</resources>
